@@ -69,47 +69,56 @@
   "blogPostings": [
     {
       "id": 1,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 2,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 3,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 4,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 5,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 6,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 7,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 8,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     },
     {
       "id": 9,
-      "content": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "title": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "content": "This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       "img": "http://demo.gieng.me/rf/images/640x480.png"
     }
   ]
